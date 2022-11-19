@@ -1,0 +1,25 @@
+{
+  "users": {
+    "6285721840462@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    }
+  },
+  "chats": {
+    "6285721840462@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    }
+  },
+  "sticker": {},
+  "database": {},
+  "game": {},
+  "settings": {
+    "6289519859252@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false
+    }
+  },
+  "others": {}
+}
